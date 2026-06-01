@@ -28,5 +28,19 @@ ________________________________________________________________________________
 * GROUP BY & HAVING
 * CTEs
 * Subqueries
-Business Analytics
-Exploratory Data Analysis (EDA)
+* Business Analytics
+* Exploratory Data Analysis (EDA)
+
+_________________________________________________________________________________________________________________________
+
+🔍 Sample Insights
+
+📌 Number of unique customers purchasing from each category
+
+📌 Customers who purchased across all product categories
+
+📌 Category-wise sales trends
+
+📌 Customer purchase behavior analysis
+
+📌 Revenue and transaction analysis
