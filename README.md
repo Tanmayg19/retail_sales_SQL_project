@@ -18,3 +18,13 @@ I worked on a Retail Sales dataset to perform data cleaning, exploratory data an
 ✅ Identified category-wise sales performance
 
 ✅ Generated actionable insights from raw sales data
+
+🛠 Skills Applied
+* SQL
+* Data Cleaning
+* Aggregate Functions
+* GROUP BY & HAVING
+* CTEs
+* Subqueries
+Business Analytics
+Exploratory Data Analysis (EDA)
