@@ -19,6 +19,8 @@ I worked on a Retail Sales dataset to perform data cleaning, exploratory data an
 
 ✅ Generated actionable insights from raw sales data
 
+____________________________________________________________________________________________________________________________
+
 🛠 Skills Applied
 * SQL
 * Data Cleaning
