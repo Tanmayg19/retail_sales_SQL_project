@@ -1,4 +1,8 @@
 # retail_sales_SQL_project
++ **Project Overview**
++ Project Title: Retail Sales Analysis
++ Database: 
+
 Retail Sales Analysis using SQL to perform data cleaning, exploratory data analysis (EDA), and business-driven insights on customer behavior, sales trends, and product performance.
 
 Excited to share my first end-to-end SQL project!
