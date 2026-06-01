@@ -44,3 +44,16 @@ ________________________________________________________________________________
 📌 Customer purchase behavior analysis
 
 📌 Revenue and transaction analysis
+
+________________________________________________________________________________________________________________________
+
+💡 Key Learning
+
+This project helped me understand how SQL is used beyond basic queries to solve real business problems and generate meaningful insights from data.
+
+_____________________________________________________________________________________________________________________
+
+I would appreciate any feedback or suggestions from the data community!
+_____________________________________________________________________________________________________________________
+
+#SQL #DataAnalytics #DataAnalysis #MySQL #DataScience #BusinessAnalytics #EDA #Analytics #LearningInPublic #GitHub #PortfolioProject #AspiringDataAnalyst
